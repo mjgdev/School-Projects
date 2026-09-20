@@ -6,14 +6,14 @@ Source code is kept private in accordance with academic/course policies.
 Digital Systems & VHDL:
 (Implemented on FPGA hardware)
 
-Customized State Machine
-Adder & Subtractor Unit
-Johnson Counter
-Function Implementation & Minimization
+- Customized State Machine
+- Adder & Subtractor Unit
+- Johnson Counter
+- Function Implementation & Minimization
 
 Algorithms & Data Structures:
 (Implemented using C and Linux)
 
-Sorting Algorithms
-Finite State Machine Simulator
-XML & Heap Data Structures
+- Sorting Algorithms
+- Finite State Machine Simulator
+- XML & Heap Data Structures
