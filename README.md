@@ -1,6 +1,19 @@
 # School-Projects
-Contains course labs I have worked on at TMU. 
-All source codes are set to private due to university course policies regarding assignment sharing
+A few Selected projects completed as part of my Computer Engineering coursework at Toronto Metropolitan University.
 
-CONTAINS: 
+Source code is kept private in accordance with academic/course policies.
 
+Digital Systems & VHDL:
+(Implemented on FPGA hardware)
+
+Customized State Machine
+Adder & Subtractor Unit
+Johnson Counter
+Function Implementation & Minimization
+
+Algorithms & Data Structures:
+(Implemented using C and Linux)
+
+Sorting Algorithms
+Finite State Machine Simulator
+XML & Heap Data Structures
