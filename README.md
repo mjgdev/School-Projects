@@ -7,7 +7,6 @@ Digital Systems & VHDL:
 (Implemented on FPGA hardware)
 
 - Customized State Machine
-- Adder & Subtractor Unit
 - Function Implementation & Minimization
 
 Algorithms & Data Structures:
