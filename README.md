@@ -8,7 +8,6 @@ Digital Systems & VHDL:
 
 - Customized State Machine
 - Adder & Subtractor Unit
-- Johnson Counter
 - Function Implementation & Minimization
 
 Algorithms & Data Structures:
